@@ -1,0 +1,8 @@
+Average GPA: 9.50
+Topper: Praveen (Roll: 2, GPA: 9.5)
+Lowest: Akshay (Roll: 1, GPA: 9.5)
+Middle: Praveen (Roll: 2, GPA: 9.5)
+
+--- GPA Rankings ---
+Roll: 1, Name: Akshay, GPA: 9.50, Grade: A
+Roll: 2, Name: Praveen, GPA: 9.50, Grade: A

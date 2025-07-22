@@ -1,0 +1,66 @@
+Bus,Seat,Status,Fare
+Express,0,Available,500
+Express,1,Booked by Ajith,500
+Express,2,Available,500
+Express,3,Available,500
+Express,4,Available,500
+Express,5,Booked by Vamsi,400
+Express,6,Available,400
+Express,7,Available,400
+Express,8,Booked by Vardhan,400
+Express,9,Available,400
+Express,10,Available,300
+Express,11,Available,300
+Express,12,Available,300
+Express,13,Available,300
+Express,14,Available,300
+Express,15,Booked by Agarwal,300
+Express,16,Available,300
+Express,17,Available,300
+Express,18,Available,300
+Express,19,Booked by Lakshith,300
+Garuda,0,Available,500
+Garuda,1,Available,500
+Garuda,2,Available,500
+Garuda,3,Booked by Praveen Reddy,500
+Garuda,4,Available,500
+Garuda,5,Booked by Akshay,400
+Garuda,6,Booked by Sujan,400
+Garuda,7,Available,400
+Garuda,8,Available,400
+Garuda,9,Available,400
+Garuda,10,Available,300
+Garuda,11,Available,300
+Garuda,12,Available,300
+Garuda,13,Available,300
+Garuda,14,Available,300
+Garuda,15,Available,300
+Garuda,16,Available,300
+Garuda,17,Available,300
+Garuda,18,Available,300
+Garuda,19,Available,300
+Volvo,0,Available,500
+Volvo,1,Available,500
+Volvo,2,Available,500
+Volvo,3,Booked by Gowtham,500
+Volvo,4,Available,500
+Volvo,5,Available,400
+Volvo,6,Available,400
+Volvo,7,Available,400
+Volvo,8,Booked by Saketh,400
+Volvo,9,Available,400
+Volvo,10,Booked by Lalith Sai,300
+Volvo,11,Available,300
+Volvo,12,Available,300
+Volvo,13,Available,300
+Volvo,14,Available,300
+Volvo,15,Available,300
+Volvo,16,Available,300
+Volvo,17,Available,300
+Volvo,18,Available,300
+Volvo,19,Available,300
+
+Summary,Bus,Booked,Available,Occupancy%
+Summary,Express,5,15,25%
+Summary,Garuda,3,17,15%
+Summary,Volvo,3,17,15%
